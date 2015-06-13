@@ -34,10 +34,10 @@ blockquote {
   border-left: 5px solid #084A69; }
 
 footer {
+  display: block;
   background-color: #000;
   color: #fff;
-  padding: 1.3em;
-  text-align: center; }
+  padding: 1.3em; }
   footer a {
     color: #FFBA65; }
   footer a:hover {

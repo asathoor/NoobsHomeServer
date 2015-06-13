@@ -54,10 +54,11 @@ blockquote {
 }
 
 footer {
+	display: block;
 	background-color: #000;
 	color: #fff;
 	padding: 1.3em;
-	text-align: center;
+
 		a {
 			color: $palebrown;
 		}
