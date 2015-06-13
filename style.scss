@@ -1,0 +1,125 @@
+/* Multimusen.dk style tyle sass */
+
+/* fonts */
+@import url(http://fonts.googleapis.com/css?family=Sonsie+One);
+
+/* height */
+$hoejde: 50px;
+
+/* colors */
+$brown: #B2670A;
+$palebrown: #FFBA65;
+$orange: #FF991D;
+$darkblue: #084A69;
+$paleblue: #0079B2;
+
+/* layout and html */
+body {
+	background-color: $darkblue;
+}
+
+.container {
+	background-color: #fff;
+}
+
+h1 {
+	font-family: 'Sonsie One', cursive;
+	font-size: 1.7em;
+	color: $orange;
+	text-align: center;
+}
+
+h2 {
+	border-bottom: 1px solid $palebrown;
+}
+
+
+h2, h3, h4, h5, h6 {
+	color: $paleblue;
+	text-align: center;
+	a {
+		color: $darkblue;
+	}
+	a:hover {
+		color: $paleblue;
+	}
+	a:visited {
+		color: $brown;
+	}
+}
+
+blockquote {
+	background-color: $palebrown;
+	border-left: 5px solid $darkblue;
+}
+
+footer {
+	background-color: #000;
+	color: #fff;
+	padding: 1.3em;
+	text-align: center;
+		a {
+			color: $palebrown;
+		}
+		a:hover {
+			color: #fff;
+		}
+}
+
+header {
+	height: $hoejde * 2;
+	background-color: $orange;
+	color: #fff;
+	font-family: 'Sonsie One', cursive;
+	font-size: 2em;
+	padding-top:1.2em;
+	padding-bottom: 1.2em;
+	text-align: center;
+}
+
+/* colorboxes */
+#color1 {
+	background-color: $brown;
+}
+
+#color2 {
+	background-color: $palebrown;
+}
+
+#color3 {
+	background-color: $orange;
+}
+
+#color4 {
+	background-color: $darkblue;
+}
+
+#color5 {
+	background-color: $paleblue;
+}
+
+#color6 {
+	background-color: #000;
+}
+
+.white {
+	color: #fff;
+}
+
+/* fonts */
+$font-stack:    Helvetica, sans-serif;	
+
+.color {
+	height: $hoejde;
+}
+
+.jumbotron {
+	margin-top: 1.5em;
+	background-color: $palebrown;
+	color: #000;
+	h1 {
+		font-size: 1.7em;
+		color: #fff;
+		text-align: left;
+	}
+}

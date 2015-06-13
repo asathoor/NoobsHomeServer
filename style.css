@@ -1,0 +1,91 @@
+/* Multimusen.dk style tyle sass */
+/* fonts */
+@import url(http://fonts.googleapis.com/css?family=Sonsie+One);
+/* height */
+/* colors */
+/* layout and html */
+body {
+  background-color: #084A69; }
+
+.container {
+  background-color: #fff; }
+
+h1 {
+  font-family: 'Sonsie One', cursive;
+  font-size: 1.7em;
+  color: #FF991D;
+  text-align: center; }
+
+h2 {
+  border-bottom: 1px solid #FFBA65; }
+
+h2, h3, h4, h5, h6 {
+  color: #0079B2;
+  text-align: center; }
+  h2 a, h3 a, h4 a, h5 a, h6 a {
+    color: #084A69; }
+  h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
+    color: #0079B2; }
+  h2 a:visited, h3 a:visited, h4 a:visited, h5 a:visited, h6 a:visited {
+    color: #B2670A; }
+
+blockquote {
+  background-color: #FFBA65;
+  border-left: 5px solid #084A69; }
+
+footer {
+  background-color: #000;
+  color: #fff;
+  padding: 1.3em;
+  text-align: center; }
+  footer a {
+    color: #FFBA65; }
+  footer a:hover {
+    color: #fff; }
+
+header {
+  height: 100px;
+  background-color: #FF991D;
+  color: #fff;
+  font-family: 'Sonsie One', cursive;
+  font-size: 2em;
+  padding-top: 1.2em;
+  padding-bottom: 1.2em;
+  text-align: center; }
+
+/* colorboxes */
+#color1 {
+  background-color: #B2670A; }
+
+#color2 {
+  background-color: #FFBA65; }
+
+#color3 {
+  background-color: #FF991D; }
+
+#color4 {
+  background-color: #084A69; }
+
+#color5 {
+  background-color: #0079B2; }
+
+#color6 {
+  background-color: #000; }
+
+.white {
+  color: #fff; }
+
+/* fonts */
+.color {
+  height: 50px; }
+
+.jumbotron {
+  margin-top: 1.5em;
+  background-color: #FFBA65;
+  color: #000; }
+  .jumbotron h1 {
+    font-size: 1.7em;
+    color: #fff;
+    text-align: left; }
+
+/*# sourceMappingURL=style.css.map */
