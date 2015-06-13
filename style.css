@@ -37,7 +37,8 @@ footer {
   display: block;
   background-color: #000;
   color: #fff;
-  padding: 1.3em; }
+  padding: 1.3em;
+  margin-bottom: 1.3em; }
   footer a {
     color: #FFBA65; }
   footer a:hover {

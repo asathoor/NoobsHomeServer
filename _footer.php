@@ -8,7 +8,7 @@
 
 
 <script>
-var site = "Noobs Home Server PHP ver.";
+var site = "Noobs Home Server";
 var lorem = "Pellentesque ac fringilla ante. Curabitur cursus, ex eget viverra placerat, mauris neque blandit velit, id tristique arcu lacus non augue. Aliquam mauris justo, vestibulum vitae rutrum at, efficitur non mi. Praesent a scelerisque mauris, at dignissim orci. Quisque blandit molestie sem laoreet commodo. Interdum et malesuada fames ac ante ipsum primis in faucibus. Donec lacinia erat quis massa convallis, in hendrerit purus euismod. Quisque quam justo, bibendum et massa eget, iaculis feugiat elit. Donec vulputate dignissim nunc. Integer luctus mattis urna in venenatis. Ut pulvinar diam non nisl scelerisque vehicula. Donec posuere magna ac urna maximus sagittis. Etiam malesuada rutrum lorem ac gravida. Integer sed ipsum eget ligula fringilla ultrices ut at arcu.";
 var res = lorem.substring((45-13), (152-13));
 
